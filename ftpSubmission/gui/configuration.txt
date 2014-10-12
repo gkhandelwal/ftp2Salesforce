@@ -1,0 +1,9 @@
+filename = closeouts200.xml
+ftpUsername = auctions
+ftpUserPassword = 
+ftpServer = ftp.godaddy.com
+salesforceUserName  = workdone6789@gmail.com
+salesforcepassword  = gaurav@1
+salesforcesecurityToken  = 47MvG2bjcaoIpQPTSvf6wL0dQ
+salesforceinstance  = ap1
+targetFoldername  = SpringCM
